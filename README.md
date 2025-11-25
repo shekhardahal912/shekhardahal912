@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Shekhar, a programmer based in Nepal.
+
+Most of my projects use HTML,CSS,Python and other relevant languages.
+
+I design websites and outline ideas using Figma. 
+
+In this profile, I will be uploading my projects and the things I am currently working on.
+
 
 <!--
 **shekhardahal912/shekhardahal912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
